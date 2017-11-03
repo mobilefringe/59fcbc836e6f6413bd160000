@@ -1184,8 +1184,8 @@ h7 {
 
 .direction_contanier, .contact_contanier, .container{
     margin-top:25px;
-    border-bottom: 1px solid #9B9B9B;
-    padding-bottom: 55px;
+    // border-bottom: 1px solid #9B9B9B;
+    // padding-bottom: 55px;
 }
 
 .direction_map, .about_banner{
