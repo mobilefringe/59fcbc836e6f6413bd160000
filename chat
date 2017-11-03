@@ -174,7 +174,7 @@
 </head>
 <body>
     <div class="panel">
-        <div class="header">
+        <div class="chat_header">
             <div class="toolbar">
                 <span md-truncate flex>Mall Assistant</span>
             </div>
