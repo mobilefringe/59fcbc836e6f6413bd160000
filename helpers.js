@@ -522,4 +522,4 @@ function getAssetURL(id){
 // 		innerWidth = $body.innerWidth();
 // 		innerHeight = $body.innerHeight();
 // 	});
-};
+// };
