@@ -42,6 +42,12 @@ function init(e){
         window.location = $(this).val();
     });
     
+    $(".close_chatbot").click(function() {
+        $("#chat_modal").remove();    
+        $(".modal-backdrop").remove();
+        $("body").toggleClass("modal-open");
+    }); 
+        
     // $.fn.halloweenBats({});
 }
 
