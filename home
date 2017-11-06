@@ -43,7 +43,12 @@
                         </p>
                     </div>
                 </div>
-                <div id="feature_2" class="position_relative"></div>
+                <div id="feature_2" class="position_relative">
+                    <a href="">
+                        <img src="https://www.mallmaverick.com/system/feature_items/feature_images/000/001/013/original/SHOP_Copy_5.png?1507842759" class="hoverer" alt="FASHION BLOG">
+                        <h5 class="center_h">FASHION BLOG</h5>
+                    </a>
+                </div>
                 <div id="feature_3" class="position_relative"></div>
             </div>
             
