@@ -17,7 +17,7 @@
                 <div class="position_relative">
                     <a href="/stores">
                         <img src="//www.mallmaverick.com/system/feature_items/feature_images/000/001/011/original/imageasset1.png?1507842594" class="hoverer" alt="Stores"/>
-                        <h5></h5>
+                        <h5 class="center_h">STORES</h5>
                     </a>
                 </div>
                 <div id="feature_1" class="position_relative"></div>
