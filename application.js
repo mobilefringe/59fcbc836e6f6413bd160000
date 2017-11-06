@@ -689,11 +689,11 @@ function renderStoreDetails(container, template, collection, slug){
         //     console.log(val.store_front)
         // }
         
-        if ((val.store_front_url).indexOf('missing.png') > -1){
-            val.alt_store_front_url = "//codecloud.cdn.speedyrails.net/sites/59c3f9f46e6f646526050000/image/jpeg/1507226103000/billingsbridge_default.jpg";
-        } else {
-            val.alt_store_front_url = getImageURL(val.store_front_url); 
-        }
+        // if ((val.store_front_url).indexOf('missing.png') > -1){
+        //     val.alt_store_front_url = "//codecloud.cdn.speedyrails.net/sites/59c3f9f46e6f646526050000/image/jpeg/1507226103000/billingsbridge_default.jpg";
+        // } else {
+        //     val.alt_store_front_url = getImageURL(val.store_front_url); 
+        // }
         
         if (val.website != null && val.website.length > 0){
             val.show = "display:block";
