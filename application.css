@@ -1075,13 +1075,12 @@ h7 {
 }
 
 .details_desc{
-    font-size: 24px;
-    color: #5F574B;
-    line-height: 36px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    line-height: 28px;
     font-weight: 100;
-    margin-bottom:40px;
+    color: #5F574B;
 }
-
 .promo_item{
     margin-bottom:30px;
     min-height: 220px;
