@@ -6,7 +6,7 @@
     <i class="fa fa-remove close_popup"></i>
 </div>
 <div class="hero_banner text-center">
-    <h3 class="animated bounce">Where Shopping Happens</h3>
+    <h3 class="animated pulse">Where Shopping Happens</h3>
     
     <a class="animated_btn" href="/stores">Visit Our Stores</a>
 </div>
