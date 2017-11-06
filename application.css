@@ -19,7 +19,7 @@ $secondary: #9CAA47;
 body{
     color:#000;
     font-family:'Lato', bold;
-    padding-top:20px;
+    padding-top: 20px;
     font-size: 12px;
     font-weight: 400;
 }
@@ -28,14 +28,6 @@ body{
     display:none;
 }
 
-@font-face{
-    font-family: Georgia;
-    src: url('//codecloud.cdn.speedyrails.net/sites/5730acef6e6f6455e0000000/font/truetype/1461457460000/Georgia Italic.ttf') format('truetype');
-    src: url('//codecloud.cdn.speedyrails.net/sites/5730acef6e6f6455e0000000//1463611626000/Georgia-Italic.woff') format('woff');
-    font-family:italic;
-}
-
-
 .bulletin{
     background: rgb(215,0,16);
     color: #fff;
@@ -43,7 +35,7 @@ body{
     font-size: 18px;
     text-align: center;
     height: 35px;
-    p{
+    p {
         margin-bottom:0;
     }
 }
@@ -522,36 +514,6 @@ h7 {
     }
 }
 
-.jobs_banner{
-    background-color: #000;
-    background-image: url(//codecloud.cdn.speedyrails.net/sites/59c2df1a6e6f645a36b30000/image/png/1502902607000/inside_banner.png);
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat; 
-    padding: 0 0 85px 0;
-    h3{
-        margin: 0;
-        font-size: 54px;
-        color: #fff;
-        letter-spacing: 4px;
-        padding-top: 60px;
-        margin-bottom: 10px;
-        text-transform: uppercase;
-        // font-family: 'EB Garamond';
-        font-family: 'Lato', bold;
-        font-weight: 400;
-        max-width: 940px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    p{
-        font-size: 24px;
-        color: #fff;
-        letter-spacing: 0.5px;
-        font-family: 'Open Sans Condensed';
-        text-transform: uppercase;
-    }
-}
 
 .newsletter_banner { 
     background-color:#000;
