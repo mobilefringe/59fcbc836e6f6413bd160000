@@ -695,7 +695,7 @@ function renderStoreDetails(container, template, collection, slug){
         //     val.alt_store_front_url = getImageURL(val.store_front_url); 
         // }
         
-        if (val.website != null && val.website.length > 0){
+        if (val.website != null){
             val.show = "display:block";
         } else {
             val.show = "display:none";
