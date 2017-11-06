@@ -64,7 +64,7 @@
             
             <div class="feature_item">
                 <!-- id="feature_4" -->
-                <div id="feature_4" class="position_relative">
+                <div class="position_relative">
                     <a href="">
                         <img src="https://www.mallmaverick.com/system/feature_items/feature_images/000/001/015/original/newstores.png?1507905090" class="hoverer" alt="NEW STORES">
                         <h5 class="center_h">NEW STORES</h5>
