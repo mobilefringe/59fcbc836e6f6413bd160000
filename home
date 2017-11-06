@@ -42,7 +42,7 @@
                         </h1>
                         <p>
                             <a class="social_link_blank" href="https://twitter.com" target="_blank">@TwinPinesMall</a><br/>
-                            <span id="latest_tweet_date"></span>
+                            <span id="latest_tweet_date">Nov. 5</span>
                         </p>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                     <p>
                         <a  class="social_link_blank" href="https://www.facebook.com/twinpinescentre/" target="_blank">Like                              us on Facebook</a><br/>
                             <a  class="social_link_blank" href="https://www.facebook.com/twinpinescentre/" target="_blank"                                   >facebook.com/TwinPinesMall</a>
-                        <span id="latest_fb_date"></span>    
+                        <span id="latest_fb_date">Nov. 6</span>    
                     </p>
                 </div>
                 <!-- id="feature_5" -->
