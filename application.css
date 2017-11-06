@@ -439,15 +439,15 @@ h7 {
 }
 
 .store_list_head {
-    margin-top: -25px;
+    margin-top: -72px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
     padding: 0 40px;
     background: #fff;
-    font-family:'Lato';
+    // font-family:'Raleway', sans-serif;
     h5, a {
-        font-size: 24px;
+        font-size: 20px;
         color: $primary;
         letter-spacing: 1.5px;
         padding: 27px 0px;
@@ -467,8 +467,8 @@ h7 {
     .col-md-4:last-child{
         text-align:right;
     }
-   
 }
+
 .hero_banner{
     background-color:#fff;
     background-image: url(//codecloud.cdn.speedyrails.net/sites/59fcbc836e6f6413bd160000/image/png/1507905197000/hero_banner2.png);
