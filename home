@@ -14,7 +14,7 @@
     <div class="feature_items_box mobile_padding">
         <div class="feature_row">
             <div class="feature_item">
-                <div id="feature_0" class="position_relative">
+                <div class="position_relative">
                     <a href="/stores">
                         <img src="//www.mallmaverick.com/system/feature_items/feature_images/000/001/011/original/imageasset1.png?1507842594" class="hoverer" alt="Stores"/>
                         <h5></h5>
