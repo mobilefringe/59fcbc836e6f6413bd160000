@@ -445,7 +445,6 @@ h7 {
     margin-bottom: 20px;
     padding: 0 40px;
     background: #fff;
-    // font-family:'Raleway', sans-serif;
     h5, a {
         font-size: 20px;
         color: $primary;
@@ -458,7 +457,7 @@ h7 {
         color: $secondary;
     }
     .row{
-        border-bottom:1px solid #979797;
+        border-bottom: 1px solid #979797;
     }
     .col-md-4:nth-child(2){
         text-align: center;
