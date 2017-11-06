@@ -107,7 +107,13 @@
                         <p class="hours_link">See More Hours</p>
                     </a>
                 </div>
-                <div id="feature_6" class="position_relative"></div>
+                <!-- id="feature_6" -->
+                <div class="position_relative">
+                    <a href="/events">
+                        <img src="//www.mallmaverick.com/system/feature_items/feature_images/000/001/017/original/imageasset2.png?1507842882" class="hoverer" alt="EVENTS">
+                        <h5 class="center_h">EVENTS</h5>
+                    </a>
+                </div>
             </div>
             <div class="clearfix"></div>
         </div>
