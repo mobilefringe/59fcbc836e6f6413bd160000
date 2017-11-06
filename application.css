@@ -2136,8 +2136,8 @@ gallery:after{
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 769px) {
     .open_menu{
-        width:33px;
-        margin-top:30px;
+        margin-top: 20px;
+        width: 33px;
         cursor: pointer;
     }
     .search_results_container{
