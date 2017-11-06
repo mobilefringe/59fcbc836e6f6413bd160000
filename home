@@ -14,12 +14,14 @@
     <div class="feature_items_box mobile_padding">
         <div class="feature_row">
             <div class="feature_item">
+                <!-- id="feature_0" -->
                 <div class="position_relative">
                     <a href="/stores">
                         <img src="//www.mallmaverick.com/system/feature_items/feature_images/000/001/011/original/imageasset1.png?1507842594" class="hoverer" alt="Stores"/>
                         <h5 class="center_h">STORES</h5>
                     </a>
                 </div>
+                <!-- id="feature_1" -->
                 <div class="position_relative">
                     <a href="">
                         <img src="https://www.mallmaverick.com/system/feature_items/feature_images/000/001/012/original/imageasset3.png?1507842717" class="hoverer" alt="PROMOS">
@@ -27,7 +29,6 @@
                     </a>
                 </div>
             </div>
-            
             <div class="feature_item">
                 <a class="show_phone" href="https://twitter.com/Billings_Bridge" target="_blank"><img src="//codecloud.cdn.speedyrails.net/sites/57f7f01f6e6f647835890000/image/jpeg/1464116338000/hsc_twitter.jpg"  alt=""></a>
                 <div class="social_box hidden_phone text-center" d="social_twitter">
