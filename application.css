@@ -1116,15 +1116,12 @@ h7 {
         color: $secondary;
     }
 }
-
 .promo_dates, .dates{
-    font-weight: lighter;
-    font-size: 24px;
-    color: $secondary;
     margin-bottom: 26px;
-    
+    font-weight: lighter;
+    font-size: 18px;
+    color: $secondary;
 }
-
 .promo_store{
     font-weight:lighter;
     font-size: 24px;
