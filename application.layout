@@ -249,7 +249,7 @@
                     <h3 class="site_map_heading">© 2017 - TWINPINES MALL</h3>
                     <p class="rights_reserved">
                         <a href="https://goo.gl/maps/UeBS43VV4u22" target="_blank">
-                            216 Chrislea Road - Unit 502 Woodbridge, ON, Canada<br/>L4L 8S5 
+                            216 Chrislea Road - Unit 502 <br/>Woodbridge, ON, Canada L4L 8S5 
                         </a>
                         <br/>
                         Phone: <a href="tel:1-888-854-5796">(613) 733-2595</a><br />
@@ -264,7 +264,8 @@
     </section>
     <script>
         jQuery(document).ready(function($){
-            $.getJSON("//billingsbridge.mallmaverick.com/api/v3/billings/messages.json").done(function(data){
+            //Add messages.json 
+            $.getJSON("/messages.json").done(function(data){
                 var messages = data.messages.bulletin
                 if (messages != undefined){
                     if (messages.length == 0){
