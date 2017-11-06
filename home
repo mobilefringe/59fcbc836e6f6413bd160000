@@ -70,7 +70,7 @@
                         <h5 class="center_h">NEW STORES</h5>
                     </a>
                 </div>
-                <a href="https://https://www.facebook.com/twinpinescentre" target="_blank" class="show_phone">
+                <a href="https://www.facebook.com/twinpinescentre" target="_blank" class="show_phone">
                     <img src="//codecloud.cdn.speedyrails.net/sites/57f7f01f6e6f647835890000/image/jpeg/1464191314000/hsc_facebook-1.jpg" alt="fb">
                 </a>
                 <div class="hidden_phone social_box text-center" id="social_fb">
@@ -78,7 +78,7 @@
                     <a href="#" id="latest_fb_link" target="_blank"><p id="latest_fb" class="latest_post"></p></a>
                     <p>
                         <a  class="social_link_blank" href="https://www.facebook.com/twinpinescentre/" target="_blank">Like                              us on Facebook</a><br/>
-                            <a  class="social_link_blank" href="https://www.facebook.com/twinpinescentre/" target="_blank"                                   >facebook.com/twinpinesmall</a>
+                            <a  class="social_link_blank" href="https://www.facebook.com/twinpinescentre/" target="_blank"                                   >facebook.com/TwinPinesMall</a>
                         <span id="latest_fb_date"></span>    
                     </p>
                 </div>
