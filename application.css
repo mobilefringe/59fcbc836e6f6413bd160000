@@ -372,9 +372,9 @@ h7 {
 
 .submenu_expander{
     img{
-        float:right;
-        margin-top:10px;
-        margin-right:20px;
+        float: right;
+        margin-top: 3px;
+        margin-right: 20px;
     }
 }
 
