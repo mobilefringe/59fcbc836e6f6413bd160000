@@ -18,8 +18,8 @@ body {
     background: #417505;
     // -webkit-filter: drop-shadow(10px 10px 10px #111);
     // filter: drop-shadow(5px 5px 5px #222);
-    animation: bounce 1s infinite alternate;
-    -webkit-animation: bounce 1s infinite alternate;
+    // animation: bounce 1s infinite alternate;
+    // -webkit-animation: bounce 1s infinite alternate;
 }
 
 #chatbot {
@@ -28,22 +28,22 @@ body {
     outline: none;
 }
 
-@keyframes bounce {
-    from {
-        transform: translateY(0px);
-    }
-    to {
-        transform: translateY(-15px);
-    }
-}
-@-webkit-keyframes bounce {
-    from {
-        transform: translateY(0px);
-    }
-    to {
-        transform: translateY(-15px);
-    }
-}
+// @keyframes bounce {
+//     from {
+//         transform: translateY(0px);
+//     }
+//     to {
+//         transform: translateY(-15px);
+//     }
+// }
+// @-webkit-keyframes bounce {
+//     from {
+//         transform: translateY(0px);
+//     }
+//     to {
+//         transform: translateY(-15px);
+//     }
+// }
 
 .modal-backdrop.in {
     opacity: 0.7;
