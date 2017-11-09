@@ -37,7 +37,8 @@ body {
 #chat_modal.modal.in .lab-modal-body {
     margin: 0px;
     position: absolute;
-    bottom: 90px;
+    // bottom: 90px;
+    bottom: 120px;
     right: 10px;
 }
 #chat_modal.modal .lab-modal-body {
