@@ -24,7 +24,8 @@ body {
 }
 
 #chatbot {
-    width: 26px;
+    // width: 26px;
+    width: 46px;
     height: auto;
     outline: none;
 }
