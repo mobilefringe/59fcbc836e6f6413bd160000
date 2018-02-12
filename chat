@@ -74,7 +74,7 @@
                 objDiv.scrollTop = objDiv.scrollHeight;
                 
                 axios.post( baseUrl, {
-                    message: "today's hours",
+                    message: "hours",
                     property_id: propertyId
                 })
                 .then(function (response) {
