@@ -682,12 +682,12 @@ function renderStoreDetails(container, template, collection, slug){
     Mustache.parse(template_html);   // optional, speeds up future uses
     item_list.push(collection);
     $.each( item_list , function( key, val ) {
-        var store_front_url = getAssetURL(val.id);
-        console.log(store_front_url)
-        if(store_front_url !== undefined){
-            val.store_front = "//mallmaverick.com" + store_front_url;
-            console.log(val.store_front)
-        }
+        // var store_front_url = getAssetURL(val.id);
+        // console.log(store_front_url)
+        // if(store_front_url !== undefined){
+        //     val.store_front = "//mallmaverick.com" + store_front_url;
+        //     console.log(val.store_front)
+        // }
         
         if ((val.store_front_url).indexOf('missing.png') > -1){
             val.alt_store_front_url = "//codecloud.cdn.speedyrails.net/sites/59c3f9f46e6f646526050000/image/jpeg/1507226103000/billingsbridge_default.jpg";
